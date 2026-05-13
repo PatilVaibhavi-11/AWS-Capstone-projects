@@ -1,0 +1,25 @@
+2. Scalable Web App with NLB and Auto Scaling
+
+Execution Steps
+1.Launch EC2 instances
+2.Configure application on instances
+3.Create Network Load Balancer
+4.Attach instances to target group
+5.Configure Auto Scaling Group
+6.Test application performance
+
+Project Overview
+Implemented a highly performant application using Network Load Balancer and Auto Scaling.
+
+AWS Services Used
+Amazon EC2
+Network Load Balancer (NLB)
+Auto Scaling Group
+
+Features
+Low latency traffic handling
+High performance networking
+Fault tolerance
+
+Architecture
+User → NLB → EC2 Instances
