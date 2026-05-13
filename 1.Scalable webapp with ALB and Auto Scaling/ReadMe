@@ -1,0 +1,26 @@
+1. Scalable Web App with ALB and Auto Scaling
+
+Execution Steps
+1.Launch 2 EC2 instances
+2.Install web server on both instances
+3.Create an Application Load Balancer
+4.Configure target group and attach EC2 instances
+5.Create Auto Scaling Group
+6.Test application using ALB DNS
+
+Project Overview
+A scalable web application deployed on AWS using EC2 instances behind an Application Load Balancer with Auto Scaling.
+
+AWS Services Used
+Amazon EC2
+Application Load Balancer (ALB)
+Auto Scaling Group
+Security Groups
+
+Features
+Automatic traffic distribution
+High availability
+Auto scaling during high traffic
+
+Architecture
+User → ALB → EC2 Instances → Auto Scaling
