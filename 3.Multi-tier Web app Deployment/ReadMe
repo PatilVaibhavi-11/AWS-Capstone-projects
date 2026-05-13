@@ -1,0 +1,25 @@
+3. Multi-tier Web App Deployment
+
+Execution Steps
+1.Launch frontend EC2 instance
+2.Launch backend EC2 instance
+3.Create RDS database
+4.Connect backend with database
+5.Configure frontend with backend
+6.Test complete application
+
+Project Overview
+Deployed a multi-tier architecture separating frontend, backend, and database layers.
+
+AWS Services Used
+Amazon EC2
+Amazon RDS
+Load Balancer
+
+Features
+Layered architecture
+Improved security
+Better scalability
+
+Architecture
+Frontend → Backend → RDS Database
