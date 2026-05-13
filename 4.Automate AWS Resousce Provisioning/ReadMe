@@ -1,0 +1,23 @@
+4. Automate AWS Resource Provisioning
+
+Execution Steps
+1.Configure AWS CLI
+2.Install Python and boto3
+3.Create IAM user with permissions
+4.Write Python automation script
+5.Run script using terminal
+6.Verify created AWS resources
+
+Project Overview
+Automated AWS infrastructure creation using Python scripts and boto3.
+
+AWS Services Used
+AWS IAM
+Amazon EC2
+Amazon S3
+boto3 SDK
+
+Features
+Infrastructure automation
+Reduced manual work
+Faster deployment
