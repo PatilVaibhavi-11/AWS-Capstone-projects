@@ -1,0 +1,24 @@
+5. SDK Automation for Static Website Hosting
+
+Execution Steps
+1.Create S3 bucket
+2.Enable static website hosting
+3.Install boto3 library
+4.Write Python upload script
+5.Upload website files automatically
+6.Open website endpoint URL
+
+Project Overview
+Automated static website hosting on Amazon S3 using Python and boto3.
+
+AWS Services Used
+Amazon S3
+boto3 SDK
+
+Features
+Automated website upload
+Static website hosting
+Reduced manual configuration
+
+Architecture
+Python Script → S3 Bucket → Static Website
