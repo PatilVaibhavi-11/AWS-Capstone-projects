@@ -1,0 +1,22 @@
+6.Automated Cost Optimizer
+
+Execution Steps
+1.Launch EC2 instance for testing
+2.Create Lambda function
+3.Configure CloudWatch monitoring
+4.Add automation logic in Lambda
+5.Create trigger events
+6.Monitor optimization results
+
+Project Overview
+Created a system to monitor and optimize AWS resource costs automatically.
+
+AWS Services Used
+AWS Lambda
+Amazon CloudWatch
+Amazon EC2
+
+Features
+Resource monitoring
+Automatic optimization
+Cost reduction
