@@ -1,0 +1,27 @@
+13. LAMP Application Hosting
+
+Execution Steps
+1.Launch Linux EC2 instance
+2.Install Apache, PHP, and MySQL
+3.Configure application files
+4.Connect application with database
+5.Start Apache service
+6.Open application in browser
+
+Project Overview
+Hosted a traditional LAMP stack application on AWS.
+
+AWS Services Used
+Amazon EC2
+Amazon RDS
+Apache
+PHP
+MySQL
+
+Features
+Traditional web hosting
+Database integration
+Stable application deployment
+
+Architecture
+Apache + PHP → MySQL Database
