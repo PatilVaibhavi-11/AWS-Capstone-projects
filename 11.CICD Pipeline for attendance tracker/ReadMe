@@ -1,0 +1,26 @@
+11. CI/CD Pipeline for Attendance Application
+
+Execution Steps
+1.Upload attendance app code to GitHub
+2.Create CodePipeline
+3.Configure source and deployment stages
+4.Connect EC2 or S3 deployment target
+5.Start pipeline execution
+6.Verify automatic deployment
+
+Project Overview
+Developed a CI/CD pipeline for automated deployment of an attendance management application.
+
+AWS Services Used
+AWS CodePipeline
+Amazon EC2 / S3
+
+Features
+Automated deployment
+Continuous delivery
+Faster updates
+
+Architecture
+GitHub → CodePipeline → EC2/S3 Deployment
+
+
