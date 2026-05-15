@@ -1,0 +1,25 @@
+10. Containerized Node.js Application
+
+Execution Steps
+1.Create Node.js application
+2.Write Dockerfile
+3.Build Docker image
+4.Push image to ECR
+5.Create ECS cluster
+6.Deploy and test application
+
+Project Overview
+Deployed a Node.js application using Docker containers on ECS.
+
+AWS Services Used
+Amazon ECR
+Amazon ECS
+Docker
+
+Features
+Container deployment
+Scalable hosting
+Simplified application management
+
+Architecture
+Docker → ECR → ECS
