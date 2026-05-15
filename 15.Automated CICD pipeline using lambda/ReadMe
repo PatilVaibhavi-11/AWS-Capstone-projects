@@ -1,0 +1,24 @@
+15. Automating CI/CD Pipelines using Lambda
+
+Execution Steps
+1.Create Lambda function
+2.Add automation code
+3.Create CodePipeline
+4.Configure Lambda trigger
+5.Start deployment process
+6.Verify successful pipeline execution
+
+Project Overview
+Used AWS Lambda to automate CI/CD pipeline triggers and deployment tasks.
+
+AWS Services Used
+AWS Lambda
+AWS CodePipeline
+
+Features
+Event-driven automation
+Reduced manual deployment steps
+Faster CI/CD execution
+
+Architecture
+Lambda Trigger → CodePipeline → Deployment
