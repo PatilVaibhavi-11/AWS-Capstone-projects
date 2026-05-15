@@ -1,0 +1,25 @@
+8. Containerized Flask Application
+
+Execution Steps
+1.Create Flask application
+2.Write Dockerfile
+3.Build Docker image
+4.Push image to Amazon ECR
+5.Create ECS cluster and service
+6.Deploy and test application
+
+Project Overview
+Containerized a Flask application using Docker and deployed it on ECS.
+
+AWS Services Used
+Amazon ECR
+Amazon ECS
+Docker
+
+Features
+Containerization
+Easy deployment
+Scalable application hosting
+
+Architecture
+Docker → ECR → ECS
