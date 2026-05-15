@@ -1,0 +1,25 @@
+7. CI/CD Pipeline for Node.js Application
+
+Execution Steps
+1.Push Node.js code to GitHub
+2.Create CodeBuild project
+3.Create CodePipeline pipeline
+4.Connect GitHub repository
+5.Configure deployment stage
+6.Push code changes and test auto deployment
+
+Project Overview
+Built a CI/CD pipeline to automatically deploy a Node.js application.
+
+AWS Services Used
+AWS CodePipeline
+AWS CodeBuild
+Amazon EC2 / S3
+
+Features
+Automated deployment
+Continuous integration
+Faster release cycle
+
+Architecture
+GitHub → CodePipeline → CodeBuild → Deployment
