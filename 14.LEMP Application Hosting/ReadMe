@@ -1,0 +1,27 @@
+14. LEMP Application Hosting
+
+Execution Steps
+1.Launch Linux EC2 instance
+2.Install Nginx, PHP, and MySQL
+3.Configure Nginx server
+4.Connect database with application
+5.Restart Nginx service
+6.Test application in browser
+
+Project Overview
+Hosted a high-performance LEMP stack application using Nginx.
+
+AWS Services Used
+Amazon EC2
+Amazon RDS
+Nginx
+PHP
+MySQL
+
+Features
+Faster web serving
+Optimized architecture
+Modern hosting stack
+
+Architecture
+Nginx + PHP → MySQL Database
