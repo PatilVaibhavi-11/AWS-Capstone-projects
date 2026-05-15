@@ -1,0 +1,25 @@
+12. Bus Booking Application Deployment
+
+Execution Steps
+1.Launch EC2 instance
+2.Install required application dependencies
+3.Create RDS database
+4.Configure database connectivity
+5.Create Load Balancer
+6.Test complete application
+
+Project Overview
+Deployed a complete bus booking application on AWS cloud infrastructure.
+
+AWS Services Used
+Amazon EC2
+Amazon RDS
+Load Balancer
+
+Features
+Real-world deployment
+Database connectivity
+Scalable architecture
+
+Architecture
+Users → Load Balancer → EC2 → RDS
