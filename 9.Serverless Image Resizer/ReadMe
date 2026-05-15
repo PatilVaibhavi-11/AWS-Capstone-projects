@@ -1,0 +1,24 @@
+9. Serverless Image Resizer
+
+Execution Steps
+1.Create S3 bucket
+2.Create Lambda function
+3.Add image resize code
+4.Configure S3 trigger
+5.Upload image to bucket
+6.Verify resized output image
+
+Project Overview
+Created a serverless solution to automatically resize uploaded images.
+
+AWS Services Used
+AWS Lambda
+Amazon S3
+
+Features
+Automatic image processing
+Event-driven architecture
+Serverless computing
+
+Architecture
+Image Upload → S3 Trigger → Lambda → Resized Image
